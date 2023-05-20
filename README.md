@@ -11,3 +11,5 @@ https://github.com/MADHANKUMAR-R/nav-bar/assets/122138979/93b52b4d-f25a-4ce4-b17
 ##### Dependencies
 The CSS Navigation Bar does not have any external dependencies. It relies solely on HTML and CSS, making it easy to integrate into any web project.
 Make sure to replace path/to/your/css/file.css and path/to/screenshot.png with the actual paths to your CSS file and screenshot, respectively.
+###### Documentation
+This documentation will help users understand and utilize the CSS Navigation Bar effectively within their projects.
